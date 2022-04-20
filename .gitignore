@@ -1,4 +1,5 @@
 config/
+legacy/
 
 cache.ini
 config.ini
